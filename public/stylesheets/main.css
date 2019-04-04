@@ -1,0 +1,11 @@
+body {
+    background: lightblue;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption_full {
+    padding: 10px;
+}
